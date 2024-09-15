@@ -3,6 +3,7 @@
 This project is a Fake News Detector that uses various machine learning models to classify news articles as real or fake. The primary focus is on comparing the performance of different classifiers, including Logistic Regression, Support Vector Classifier (SVC), Random Forest, and Decision Tree. The dataset used contains news articles with corresponding labels indicating whether they are real or fake.
 
 Dataset Link: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news
+<br>
 NoteBook Link: https://github.com/Warishayat/Fake-News-Detector-Machine-Learning
 
 ## Table of Contents
